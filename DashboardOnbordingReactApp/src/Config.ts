@@ -10,11 +10,14 @@
 // https://analysis.windows.net/powerbi/api/Report.Read.All
 export const scopes: string[] = ["https://analysis.windows.net/powerbi/api/Report.Read.All"];
 
+// ToDo fill in your clientId
 // Client Id (Application Id) of the AAD app.
-export const clientId: string = "ec832b7b-04b3-4b8e-937b-8422c18a6b3d";
+export const clientId: string = "";
 
+// ToDo fill in the id of your workspace
 // Id of the workspace where the report is hosted
-export const workspaceId: string = "3e05d0d8-160d-4e6c-b1db-197561063245";
+export const workspaceId: string = "";
 
+// ToDo fill in the id of your report
 // Id of the report to be embedded
-export const reportId: string = "24e16129-5113-427e-8044-01e1d00ecf6c";
+export const reportId: string = "";
