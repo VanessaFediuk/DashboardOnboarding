@@ -1,6 +1,5 @@
 import * as helpers from "./helperFunctions";
 import * as global from "./globalVariables";
-import { Visual } from "powerbi-client";
 import infoImg from "../assets/info.png";
 import yAxisImg from "../assets/y-axis.png";
 import xAxisImg from "../assets/x-axis.png";

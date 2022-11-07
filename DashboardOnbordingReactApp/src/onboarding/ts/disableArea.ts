@@ -1,6 +1,5 @@
 import * as global from "./globalVariables";
 import * as elements from "./elements";
-import { Visual } from "powerbi-client";
 import { getClickableStyle } from "./helperFunctions";
 
 export function disableAll(){
